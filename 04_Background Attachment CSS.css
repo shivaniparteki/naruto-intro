@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    height:100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center center;
+}
+div h1{
+    margin: 0px;
+    text-align:center ;
+    font-size: 3rem;
+}
+.anime {
+    text-align:center;
+    text-align: justify;
+
+    /* position: absolute; */
+    color:white;
+
+    bottom: 10px;
+    /* align-items: baseline; */
+    /* display: flex; */
+    display: grid;
+    align-content: space-between;
+    
+}
+.anime p{
+    background-color:black;
+    border: 3px solid white;
+    padding: 10px 20px 10px 20px;
+    /* backdrop-filter: blur(1px); */
+    margin: 2rem 1rem ;
+}
+
+
+#div_1{
+    background-image: url(https://images.hdqwalls.com/download/kakashi-hatake-anime-4k-yk-1280x1024.jpg);
+    border: 5px ridge white ;
+}
+#div_1  h1{
+    color:rgb(48, 125, 163);
+    
+}
+
+
+#div_2{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/580/180/49/anime-naruto-naruto-uzumaki-ninja-wallpaper-thumb.jpg);
+    border: 5px ridge white ;
+}
+#div_2 h1 {
+    color: rgb(180, 33, 3);
+}
+
+
+#div_3{
+    background-image: url(https://i.pinimg.com/originals/b9/45/e0/b945e04f7a01b918ba37f5fd3cf2a2c0.jpg);
+    border: 5px ridge white ;
+}
+#div_3 h1{
+    color:rgb(104, 187, 235);
+}
+
+
+#div_4{
+    background-image: url(https://images2.alphacoders.com/505/505017.jpg);
+    border: 5px ridge white ;
+}
+#div_4 h1 {
+    color:rgb(135, 5, 5);
+}
+
+
+
+#div_5{
+    background-image: url(https://wallpapercave.com/dwp2x/4SdP62v.jpg);
+    border: 5px ridge white ;
+}
+#div_5 h1{
+    color:rgb(246, 242, 237);
+}
+
+#div_6{
+    background-image: url(https://wallpapercave.com/dwp2x/l64amfL.jpg);
+    border: 5px ridge white ;
+}
+#div_6 h1{
+    color:rgb(65, 134, 73);
+}
